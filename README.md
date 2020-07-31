@@ -1,3 +1,4 @@
 # hellow-world
 Just another repository
-Heollow, I'm a biggner user of Github.
+
+Hellow, I'm a biggner user of Github.
